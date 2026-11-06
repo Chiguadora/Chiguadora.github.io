@@ -1,0 +1,36 @@
+{
+  "ok": true,
+  "project": "project-13936532",
+  "generated_at": "2026-09-16 18:13:07",
+  "chrome": "E:\\playwright-browsers\\chromium-1187\\chrome-win\\chrome.exe",
+  "routes": [
+    "/",
+    "/about",
+    "/faq",
+    "/hot",
+    "/post/post-101",
+    "/post/post-102",
+    "/post/post-103",
+    "/post/post-104",
+    "/post/post-105",
+    "/post/post-106",
+    "/post/post-107",
+    "/post/post-108",
+    "/post/post-109",
+    "/post/post-110",
+    "/post/post-111",
+    "/post/post-112",
+    "/topics",
+    "/topics/creator",
+    "/topics/entertainment",
+    "/topics/film",
+    "/topics/society",
+    "/topics/sports",
+    "/topics/tech"
+  ],
+  "route_count": 23,
+  "missing_assets": [],
+  "warnings": [
+    "缺失的非关键本地资源：/vite.svg"
+  ]
+}
